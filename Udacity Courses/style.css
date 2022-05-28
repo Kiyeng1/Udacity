@@ -1,0 +1,76 @@
+.container{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.main{
+    background-color: #007aff;
+    text-align: center;
+    color: #fff;
+    
+}
+
+.header h2, h4{
+    color: #007aff;
+    text-align: center;
+
+}
+
+button1{
+    color:#fff;
+    background-color: #007aff;
+    border: 2px solid #007aff;
+    border-radius: 15px;
+    padding:7px 18px;
+}
+
+.text {
+    background-color: #007aff;
+    color: #fff;
+    padding: 0px 10px;
+
+}
+
+button2{
+    background-color: #fff;
+    border: 2px solid #fff;
+    color: black;
+    border-radius: 15px; 
+    padding: 7px 18px;
+}
+
+.field h3{
+    color: #007aff;
+    text-align: center;
+}
+
+.field p{
+    padding-right: 0px 100px;
+}
+
+button3{
+    background-color: #007aff;
+    border: 2px solid #007aff;
+    color: #fff;
+    border-radius: 15px;
+    padding: 7px 18px;
+    
+}
+
+.bottom{
+    background-color: #007aff;
+    color: #fff;
+    text-align: center;
+}
+
+.bottom p{
+    color: #fff;
+    padding-left: 80%;
+}
+
+.footer {
+    padding: 10px 15px;
+    display: flex;
+    justify-content: space-between;
+}
